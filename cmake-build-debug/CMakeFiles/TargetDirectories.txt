@@ -1,0 +1,3 @@
+/home/annie/CLionProjects/CIS4930-HW2/cmake-build-debug/CMakeFiles/CIS4930_HW2.dir
+/home/annie/CLionProjects/CIS4930-HW2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/annie/CLionProjects/CIS4930-HW2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
