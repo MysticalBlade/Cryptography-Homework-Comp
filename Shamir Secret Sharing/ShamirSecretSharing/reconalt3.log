@@ -1,0 +1,15 @@
+share[0]: 0
+share[1]: 1
+share[2]: 1
+share[3]: 1
+share[4]: 0
+Message1 (1) == 2
+Message2 (10) == 2064701233
+Share2(x,y) 2, 2064701233
+Message1 (1) == 3
+Message2 (10) == 1010008180
+Share3(x,y) 3, 1010008180
+Message1 (1) == 4
+Message2 (10) == 1662017943
+Share4(x,y) 4, 1662017943
+Secret: 88888888
